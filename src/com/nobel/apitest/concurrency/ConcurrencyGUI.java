@@ -32,9 +32,9 @@ public class ConcurrencyGUI {
         JTextField jtf1 = new JTextField(15); //用于输入APIVersion
         JTextField jtf2 = new JTextField(15); //用于输入JSON文件夹地址
         JTextField jtf3 = new JTextField(15); //用于输入并发次数
-        JLabel jlb1 = new JLabel("     APIVersion:   ");
+        JLabel jlb1 = new JLabel("         APIVersion:   ");
         JLabel jlb2 = new JLabel(" JSON文件夹地址:");
-        JLabel jlb3 = new JLabel("      并发次数:      ");
+        JLabel jlb3 = new JLabel("          并发次数:      ");
         jp1.add(jlb1);
         jp1.add(jtf1);
         jp2.add(jlb2);

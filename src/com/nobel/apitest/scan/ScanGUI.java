@@ -28,7 +28,7 @@ public class ScanGUI {
 
         JTextField jtf1 = new JTextField(15); //用于输入APIVersion
         JTextField jtf2 = new JTextField(15); //用于输入JSON文件夹地址
-        JLabel jlb1 = new JLabel("       APIVersion:");
+        JLabel jlb1 = new JLabel("           APIVersion:");
         JLabel jlb2 = new JLabel("JSON文件夹地址:");
         jp1.add(jlb1);
         jp1.add(jtf1);

@@ -7,9 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="com.microsoft.sqlserver:mssql-jdbc:6.1.7.jre8-preview" level="application" />
-    <orderEntry type="library" name="com.alibaba:fastjson:1.2.32" level="application" />
-    <orderEntry type="library" name="com.sun.mail:javax.mail:1.5.6" level="application" />
-    <orderEntry type="library" name="net.sourceforge.javacsv:javacsv:2.0" level="application" />
+    <orderEntry type="library" exported="" name="com.alibaba:fastjson:1.2.32" level="project" />
+    <orderEntry type="library" exported="" name="com.sun.mail:javax.mail:1.5.6" level="project" />
+    <orderEntry type="library" exported="" name="net.sourceforge.javacsv:javacsv:2.0" level="project" />
+    <orderEntry type="library" exported="" name="com.microsoft.sqlserver:mssql-jdbc:6.1.7.jre8-preview" level="project" />
   </component>
 </module>
